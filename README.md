@@ -1,11 +1,10 @@
 <h1 align="left">Hi 👋, I'm Aaditya Dhungana</h1>
 <h3 align="left">A passionate full stack developer from Nepal</h3>
 
-- 👨‍💻 All of my projects are available at [https://github.com/userDoffy](https://github.com/userDoffy)
+- 👨‍💻 All of my projects are available at [https://github.com/userDoffy](https://github.com/AadityaDhungana)
 
-- 📫 How to reach me **adhungana09@gmail.com**
+- 📫 How to reach me **aaditya.dhungana025@gmail.com**
 - My Portfolio site: [www.aadityadhungana.com.np](https://www.aadityadhungana.com.np) <br>
-                    [https://portfolio-website-five-kappa-65.vercel.app/](https://portfolio-website-five-kappa-65.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
